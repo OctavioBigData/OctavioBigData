@@ -1,6 +1,6 @@
 ## Hi folks! My name is Octávio Oliveira! Brazilian 43 years old.
 
-Tourismologist with a restless profile seaching constantly for knowledge and challenges.
+Tourismologist with a restless profile searching constantly for knowledge and challenges.
 
 I worked for about <b>20 years in the corporate travel market</b>, with most of my time dedicated to travel agencies. I also worked providing online travel technology (Online Booking Tool) for this market, with a greater focus on lectures, training and commercial support to the customer.
 
