@@ -31,7 +31,6 @@ Allow me to agree disagreeing with the above statement. Although I undoubtedly a
 
 ##
 
-
 <div>
   <a href="https://github.com/OctavioBigData">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=octaviobigdata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -47,6 +46,8 @@ Allow me to agree disagreeing with the above statement. Although I undoubtedly a
 </div>
   
 ##
+
+  <b>My contact channels</b>
   
 <div>
   <a href="https://www.linkedin.com/in/octavio-oliveira-56974178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logocolor=white" target="_blank"></a>
