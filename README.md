@@ -22,12 +22,13 @@ Allow me to agree disagreeing with the above statement. Although I undoubtedly a
 
 ### <i> Hobbies </i>
 
-❤️ Bike
-❤️ Barbecue
-❤️ Kraft beers
-❤️ Red wine
-❤️ Woodwork
-❤️ Drive for some hours on the road
+🆒 Bike
+🆒 Barbecue
+🆒 Kraft beers
+🆒 Red wine
+🆒 Woodwork
+🆒 Drive for some hours on the road
+🆒 Listen rock'n roll
 
 ##
 
