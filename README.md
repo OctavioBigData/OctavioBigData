@@ -6,7 +6,7 @@ I worked for about <b>20 years in the corporate travel market</b>, with most of 
 
 Currently I have been dedicated to the Big Data/Data Science area, seeking to absorb knowledge through technical courses, which motivated me to pursue a new degree, this time in the exact sciences area. The degree is called <b>Big Data and Analytical Intelligence.</b>
 
-Why this area? In addition to being an evolving sector (both the market and in technological solutions), I am absolutely fascinated by the art of finding (and generating) valuable information between the lines of data.
+Why this area? In addition to being an evolving sector (both the market and in technological solutions), I'm absolutely fascinated by the art of finding (and generating) valuable information between the lines of data.
 
 "Data is the new oil!" - Humby, Clive
 
