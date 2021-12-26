@@ -1,4 +1,4 @@
-## Hi folks! My name is Octávio Oliveira! Brazilian 43 years old.
+## Hi folks! My name is Octávio Oliveira! Brazilian with 43 years old.
 
 Tourismologist with a restless profile searching constantly for knowledge and challenges.
 
