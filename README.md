@@ -1,4 +1,4 @@
-Idioma PT/BR
+### Idioma PT/BR
 
 ## Oi pessoal! Meu nome é Octávio Oliveira! Brasileiro com 43 anos.
 
@@ -31,7 +31,7 @@ Permito-me concordar discordando da afirmação acima. Apesar de concordar indub
 🆒 Dirigir por horas na estrada 
 🆒 Ouvir rock'n roll
 
-Language EN
+### Language EN
 
 ## Hi folks! My name is Octávio Oliveira! Brazilian with 43 years old.
 
