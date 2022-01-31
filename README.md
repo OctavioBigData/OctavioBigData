@@ -1,3 +1,38 @@
+Idioma PT/BR
+
+## Oi pessoal! Meu nome é Octávio Oliveira! Brasileiro com 43 anos.
+
+Turismólogo com perfil inquieto em busca constante de conhecimento e desafios.
+
+Trabalhei por cerca de 20 anos no mercado de viagens corporativas, com a maior parte do meu tempo dedicado às agências de viagens. Trabalhei também fornecendo tecnologia de viagens online (Online Booking Tool) para este mercado, com maior foco em palestras, treinamentos e suporte comercial ao cliente.
+
+Atualmente tenho me dedicado à área de Big Data/Data Science, buscando absorver conhecimento através de cursos técnicos, o que me motivou a buscar uma nova graduação, desta vez na área de ciências exatas. A graduação tem nome de Big Data e Inteligência Analítica.
+
+Por que esta área? Além de ser um setor em evolução (tanto no mercado quanto em soluções tecnológicas), sou absolutamente fascinado pela arte de encontrar (e gerar) informações valiosas nas entrelinhas dos dados.
+
+"Dados são o novo petróleo!" - Humby, Clive
+
+Permito-me concordar discordando da afirmação acima. Apesar de concordar indubitavelmente com a comparação em termos de valor agregado e o poder que oferece na extração de "subprodutos", entendo que o petróleo é finito.
+
+### <i> Áreas de estudo </i>
+📚 Python para dados e aprendizado de máquina 
+📚 Microsoft Power BI 
+📚 MySQL 
+📚 Apache Airflow 
+📚 MinIO
+📚 Databricks
+
+### <i> Hobbies </i>
+🆒 Bike 
+🆒 Churrasco 
+🆒 Cervejas Artesanais 
+🆒 Vinho Tinto 
+🆒 Marcenaria Amadora
+🆒 Dirigir por horas na estrada 
+🆒 Ouvir rock'n roll
+
+Language EN
+
 ## Hi folks! My name is Octávio Oliveira! Brazilian with 43 years old.
 
 Tourismologist with a restless profile searching constantly for knowledge and challenges.
@@ -19,6 +54,7 @@ Allow me to agree disagreeing with the above statement. Although I undoubtedly a
 📚 MySQL
 📚 Apache Airflow
 📚 MinIO
+📚 Databricks
 
 ### <i> Hobbies </i>
 
@@ -27,8 +63,8 @@ Allow me to agree disagreeing with the above statement. Although I undoubtedly a
 🆒 Kraft beers
 🆒 Red wine
 🆒 Woodwork
-🆒 Drive for some hours on the road
-🆒 Listen rock'n roll
+🆒 Drive for hours on the road
+🆒 Listen to rock'n roll
 
 ##
 
@@ -44,7 +80,7 @@ Allow me to agree disagreeing with the above statement. Although I undoubtedly a
   <img align="center" alt="Oct-MySQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Oct-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Oct-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-</div>
+ </div>
   
 ##
 
