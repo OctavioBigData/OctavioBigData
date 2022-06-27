@@ -1,6 +1,6 @@
 ### Idioma PT/BR
 
-## Oi pessoal! Meu nome é Octávio Oliveira! Brasileiro com 43 anos.
+## Oi pessoal! Meu nome é Octávio Oliveira! Brasileiro com 44 anos.
 
 Turismólogo com perfil inquieto em busca constante de conhecimento e desafios.
 
@@ -21,6 +21,9 @@ Permito-me concordar discordando da afirmação acima. Apesar de concordar indub
 📚 Apache Airflow 
 📚 MinIO
 📚 Databricks
+📚 Pentaho Data Integration
+📚 Google Cloud Platform
+📚 Microsoft Azure
 
 ### <i> Hobbies </i>
 🆒 Bike 
@@ -33,7 +36,7 @@ Permito-me concordar discordando da afirmação acima. Apesar de concordar indub
 
 ### Language EN
 
-## Hi folks! My name is Octávio Oliveira! Brazilian with 43 years old.
+## Hi folks! My name is Octávio Oliveira! Brazilian with 44 years old.
 
 Tourismologist with a restless profile searching constantly for knowledge and challenges.
 
@@ -55,6 +58,9 @@ Allow me to agree disagreeing with the above statement. Although I undoubtedly a
 📚 Apache Airflow
 📚 MinIO
 📚 Databricks
+📚 Pentaho Data Integration
+📚 Google Cloud Platform
+📚 Microsoft Azure
 
 ### <i> Hobbies </i>
 
