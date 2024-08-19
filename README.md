@@ -1,6 +1,6 @@
 ### Idioma PT/BR
 
-## Oi pessoal! Meu nome é Octávio Oliveira! Brasileiro com 44 anos.
+## Oi pessoal! Meu nome é Octávio Oliveira! Brasileiro com 46 anos.
 
 Turismólogo com perfil inquieto em busca constante de conhecimento e desafios.
 
@@ -36,7 +36,7 @@ Permito-me concordar discordando da afirmação acima. Apesar de concordar indub
 
 ### Language EN
 
-## Hi folks! My name is Octávio Oliveira! Brazilian with 44 years old.
+## Hi folks! My name is Octávio Oliveira! Brazilian with 46 years old.
 
 Tourismologist with a restless profile searching constantly for knowledge and challenges.
 
