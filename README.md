@@ -2,75 +2,57 @@
 
 ## Oi pessoal! Meu nome é Octávio Oliveira! Brasileiro com 46 anos.
 
-Turismólogo com perfil inquieto em busca constante de conhecimento e desafios.
+👋 Sobre Mim
+Sou um profissional com mais de 20 anos de experiência na indústria de viagens corporativas e atualmente atuo como Gestor de Processos e Tecnologia na Sobratur, com foco em Data & AI. Minha carreira tem sido pautada pela transformação digital e pela otimização de processos, sempre buscando soluções inovadoras e escaláveis.
 
-Trabalhei por cerca de 20 anos no mercado de viagens corporativas, com a maior parte do meu tempo dedicado às agências de viagens. Trabalhei também fornecendo tecnologia de viagens online (Online Booking Tool) para este mercado, com maior foco em palestras, treinamentos e suporte comercial ao cliente.
+Minha especialização está em engenharia e análise de dados, com forte interesse em cultura orientada a dados, inteligência artificial e sua aplicação no mundo corporativo. Além disso, sou um entusiasta da IA generativa, explorando como essa tecnologia pode ser utilizada para impulsionar eficiência, inovação e democratização do acesso à informação.
 
-Atualmente tenho me dedicado à área de Big Data/Data Science, buscando absorver conhecimento através de cursos técnicos, o que me motivou a buscar uma nova graduação, desta vez na área de ciências exatas. A graduação tem nome de Big Data e Inteligência Analítica.
+🎯 Áreas de Atuação
+✔ Gestão de Dados & IA: Desenvolvimento de estratégias para implementação de cultura de dados e uso de inteligência artificial em empresas.
+✔ Automação e Eficiência Operacional: Aplicação de ferramentas digitais para otimizar processos e reduzir custos operacionais.
+✔ Evangelismo de Dados: Fomento à cultura de dados dentro das organizações, promovendo a adoção de soluções baseadas em data-driven decision making.
+✔ Neurociências e Gestão de Produtos de Dados: Pesquisa e aplicação de conceitos de neurociência na análise de comportamento do usuário e tomada de decisões baseada em dados.
 
-Por que esta área? Além de ser um setor em evolução (tanto no mercado quanto em soluções tecnológicas), sou absolutamente fascinado pela arte de encontrar (e gerar) informações valiosas nas entrelinhas dos dados.
+🚀 Tecnologias & Ferramentas
+🔹 Linguagens & Plataformas: SQL, Python, Power BI, Excel Avançado, APIs e integrações de dados.
+🔹 Ferramentas de Gestão & Organização: Microsoft Power Platform, Notion, Trello, Jira.
+🔹 Metodologias: Gestão ágil (Scrum, Kanban), Lean, Design Thinking.
 
-"Dados são o novo petróleo!" - Humby, Clive
+💡 Projetos & Publicações
+Atuo também como criador de conteúdo e pesquisador em temas como inteligência artificial, cultura de dados e transformação digital. Já publiquei insights sobre o impacto do 5G na conectividade empresarial, o futuro das ferramentas de automação e a integração da IA no ambiente corporativo.
 
-Permito-me concordar discordando da afirmação acima. Apesar de concordar indubitavelmente com a comparação em termos de valor agregado e o poder que oferece na extração de "subprodutos", entendo que o petróleo é finito.
+🎸 Além do Trabalho
+Residente em São Paulo, Brasil, nos momentos de lazer gosto de ouvir heavy metal, ler livros sobre tecnologia e inovação e praticar marcenaria amadora.
 
-### <i> Áreas de estudo </i>
-📚 Python para dados e aprendizado de máquina 
-📚 Microsoft Power BI 
-📚 MySQL 
-📚 Apache Airflow 
-📚 MinIO
-📚 Databricks
-📚 Pentaho Data Integration
-📚 Google Cloud Platform
-📚 Microsoft Azure
+📫 Vamos nos conectar? Estou sempre aberto a novas ideias e parcerias!
 
-### <i> Hobbies </i>
-🆒 Bike 
-🆒 Churrasco 
-🆒 Cervejas Artesanais 
-🆒 Vinho Tinto 
-🆒 Marcenaria Amadora
-🆒 Dirigir por horas na estrada 
-🆒 Ouvir rock'n roll
 
 ### Language EN
 
 ## Hi folks! My name is Octávio Oliveira! Brazilian with 46 years old.
 
-Tourismologist with a restless profile searching constantly for knowledge and challenges.
+I am a professional with over 20 years of experience in the corporate travel industry, currently working as a Process & IT Manager at Sobratur, focusing on Data & AI. My career has been driven by digital transformation and process optimization, always seeking innovative and scalable solutions.
 
-I worked for about <b>20 years in the corporate travel market</b>, with most of my time dedicated to travel agencies. I also worked providing online travel technology (Online Booking Tool) for this market, with a greater focus on lectures, training and commercial support to the customer.
+My expertise lies in data engineering and analytics, with a strong interest in data-driven culture, artificial intelligence, and its application in the corporate world. Additionally, I am passionate about generative AI, exploring how this technology can drive efficiency, innovation, and democratized access to information.
 
-Currently I have been dedicated to the Big Data/Data Science area, seeking to absorb knowledge through technical courses, which motivated me to pursue a new degree, this time in the exact sciences area. The degree is called <b>Big Data and Analytical Intelligence.</b>
+🎯 Areas of Expertise
+✔ Data & AI Management: Developing strategies to implement data-driven culture and AI solutions within companies.
+✔ Automation & Operational Efficiency: Applying digital tools to optimize processes and reduce operational costs.
+✔ Data Evangelism: Promoting a data-driven mindset within organizations, encouraging the adoption of decision-making based on insights.
+✔ Neuroscience & Data Product Management: Researching and applying neuroscience concepts in user behavior analysis and data-driven decision-making.
 
-Why this area? In addition to being an evolving sector (both the market and in technological solutions), I'm absolutely fascinated by the art of finding (and generating) valuable information between the lines of data.
+🚀 Technologies & Tools
+🔹 Languages & Platforms: SQL, Python, Power BI, Advanced Excel, APIs, and data integrations.
+🔹 Management & Organization Tools: Microsoft Power Platform, Notion, Trello, Jira.
+🔹 Methodologies: Agile management (Scrum, Kanban), Lean, Design Thinking.
 
-"Data is the new oil!" - Humby, Clive
+💡 Projects & Publications
+I also create content and conduct research on artificial intelligence, data culture, and digital transformation. I have published insights on the impact of 5G on business connectivity, the future of automation tools, and AI integration in corporate environments.
 
-Allow me to agree disagreeing with the above statement. Although I undoubtedly agree with the comparison in terms of added value and the power it offers in extracting "by-products", I understand that oil is finite.
+🎸 Beyond Work
+Based in São Paulo, Brazil, in my free time, I enjoy listening to heavy metal, reading books on technology and innovation, and practicing amateur woodworking.
 
-### <i> Study areas </i>
-
-📚 Python for Data and Machine Learning
-📚 Microsoft Power BI
-📚 MySQL
-📚 Apache Airflow
-📚 MinIO
-📚 Databricks
-📚 Pentaho Data Integration
-📚 Google Cloud Platform
-📚 Microsoft Azure
-
-### <i> Hobbies </i>
-
-🆒 Bike
-🆒 Barbecue
-🆒 Kraft beers
-🆒 Red wine
-🆒 Woodwork
-🆒 Drive for hours on the road
-🆒 Listen to rock'n roll
+📫 Let’s connect! I am always open to new ideas and collaborations!
 
 ##
 
