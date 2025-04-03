@@ -2,7 +2,6 @@
 
 ## Oi pessoal! Meu nome é Octávio Oliveira! Brasileiro com 46 anos.
 
-👋 Sobre Mim
 Sou um profissional com mais de 20 anos de experiência na indústria de viagens corporativas e atualmente atuo como Gestor de Processos e Tecnologia na Sobratur, com foco em Data & AI. Minha carreira tem sido pautada pela transformação digital e pela otimização de processos, sempre buscando soluções inovadoras e escaláveis.
 
 Minha especialização está em engenharia e análise de dados, com forte interesse em cultura orientada a dados, inteligência artificial e sua aplicação no mundo corporativo. Além disso, sou um entusiasta da IA generativa, explorando como essa tecnologia pode ser utilizada para impulsionar eficiência, inovação e democratização do acesso à informação.
