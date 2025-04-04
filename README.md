@@ -7,9 +7,13 @@ Sou um profissional com mais de 20 anos de experiência na indústria de viagens
 Minha especialização está em engenharia e análise de dados, com forte interesse em cultura orientada a dados, inteligência artificial e sua aplicação no mundo corporativo. Além disso, sou um entusiasta da IA generativa, explorando como essa tecnologia pode ser utilizada para impulsionar eficiência, inovação e democratização do acesso à informação.
 
 🎯 Áreas de Atuação
+
 ✔ Gestão de Dados & IA: Desenvolvimento de estratégias para implementação de cultura de dados e uso de inteligência artificial em empresas.
+
 ✔ Automação e Eficiência Operacional: Aplicação de ferramentas digitais para otimizar processos e reduzir custos operacionais.
+
 ✔ Evangelismo de Dados: Fomento à cultura de dados dentro das organizações, promovendo a adoção de soluções baseadas em data-driven decision making.
+
 ✔ Neurociências e Gestão de Produtos de Dados: Pesquisa e aplicação de conceitos de neurociência na análise de comportamento do usuário e tomada de decisões baseada em dados.
 
 🚀 Tecnologias & Ferramentas
@@ -35,9 +39,13 @@ I am a professional with over 20 years of experience in the corporate travel ind
 My expertise lies in data engineering and analytics, with a strong interest in data-driven culture, artificial intelligence, and its application in the corporate world. Additionally, I am passionate about generative AI, exploring how this technology can drive efficiency, innovation, and democratized access to information.
 
 🎯 Areas of Expertise
+
 ✔ Data & AI Management: Developing strategies to implement data-driven culture and AI solutions within companies.
+
 ✔ Automation & Operational Efficiency: Applying digital tools to optimize processes and reduce operational costs.
+
 ✔ Data Evangelism: Promoting a data-driven mindset within organizations, encouraging the adoption of decision-making based on insights.
+
 ✔ Neuroscience & Data Product Management: Researching and applying neuroscience concepts in user behavior analysis and data-driven decision-making.
 
 🚀 Technologies & Tools
