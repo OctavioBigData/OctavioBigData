@@ -1,6 +1,6 @@
 ### Idioma PT/BR
 
-## Oi pessoal! Meu nome é Octávio Oliveira! Brasileiro com 46 anos.
+## Oi pessoal! Meu nome é Octávio Oliveira! Brasileiro com 47 anos.
 
 Sou um profissional com mais de 20 anos de experiência na indústria de viagens corporativas e atualmente atuo como Gestor de Processos e Tecnologia na Sobratur, com foco em Data & AI. Minha carreira tem sido pautada pela transformação digital e pela otimização de processos, sempre buscando soluções inovadoras e escaláveis.
 
